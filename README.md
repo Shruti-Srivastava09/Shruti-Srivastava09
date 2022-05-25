@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/shruti-srivastava-53471320b/**
 
-- 📄 Know about my experiences [file:///C:/Users/Lenovo/Desktop/SHRUTI%20DETAILS/SHRUTI's%20Resume%20(1).pdf](file:///C:/Users/Lenovo/Desktop/SHRUTI%20DETAILS/SHRUTI's%20Resume%20(1).pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
