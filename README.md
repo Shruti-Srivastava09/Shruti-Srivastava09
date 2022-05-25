@@ -5,7 +5,7 @@
 
 - 🌱 I’m looking to collaborate on **exciting Projects and Hackathons**
 
-- 👯 I’m currently working as **Education Mentoring Program - as a Mentor I Helped Girls of class 9-12 of government school in chooosing the right career option after Class 12 also helped them in their academic courses.**
+- 👯 I’m currently working as **As a Mentor in Education Mentoring Program in which I Helped Girls of class 9-12 of government school in chooosing the right career option after Class 12 also helped them in their academic courses.**
 
 - 🤝 I’m currently learning **DSA and Dynamic Programming**
 
