@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shruti Srivastava</h1>
 <h3 align="center">My name is Shruti Srivastava. I'm pursuing B.Tech. in Mechanical And Automation Engineering from Indira Gandhi Delhi Technical University for Women. I'm a Passionate Programmer, I believe in the power of technology and it's ability to better and impact lives.</h3>
 
-- 🔭 I’m currently working as **Tech Foundation Institute - as an Educator in which I assist students from class 8 to 12 in computer science subject and taught them Programming in C++**
+- 🔭 I’m currently working in **Tech Foundation Institute - as an Educator in which I assist students from class 8 to 12 in computer science subject and taught them Programming in C++**
 
 - 🌱 I’m looking to collaborate on **exciting Projects and Hackathons**
 
