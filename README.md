@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shruti Srivastava</h1>
-<h3 align="center">My name is Shruti Srivastava. I'm pursuing B.Tech from Indira Gandhi Delhi Technical University for Women. I'm a Passionate Programmer, I believe in the power of technology and it's ability to better and impact lives.</h3>
+<h3 align="center">My name is Shruti Srivastava. I'm pursuing B.Tech from Indira Gandhi Delhi Technical University for Women. I'm a Passionate programmer and a Tech Enthusiast</h3>
 
 - 🔭 I’m currently working in **Career Foundation Institute - as an Educator **
 
